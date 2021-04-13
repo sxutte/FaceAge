@@ -27,7 +27,7 @@
 
 <h2>6.	데이터 출쳐 및 코랩 링크 </h2>
 데이터 출쳐 : https://www.kaggle.com/frabbisw/facial-age <br>
-코랩 링크  : 
+코랩 링크  : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=OFuCV7Bj-P7p 
 
 
 <h3>개요</h3<br>
