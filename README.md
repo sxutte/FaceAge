@@ -18,17 +18,33 @@
   사진을 업로드 하면 사진속 얼굴이 몇 살로 확인되는지 출력된다.
 
 <h2>4.	개발 환경 및 사용 기술</h2>
-  COLAB
+  COLAB, seaborn(시각화)
 
 <h2>5.	역할 분담</h2>
   윤홍주 : 
   이창원 : 
 
 <h2>6.	참고 사이트 또는 아이디어를 얻은 대상</h2>
+  자료 출처 : [https://www.kaggle.com/frabbisw/facial-age]
+  
 
 
-<h2>7. 데이터 출쳐</h2>
-seaborn
 
 <h3>개요</h3<br>
   COLAB, d
+  kilah@softsociety.net
+
+
+---
+<!-- kilah@softsociety.net
+read.md 파일안에 
+주제 :
+데이터 출처
+코랩 링크
+조원이름
+전처리작업
+시각화 : seaborn
+학습
+최적화함수, 오류함수, 활성화함수
+predict 95% -->
+
