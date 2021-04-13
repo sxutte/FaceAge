@@ -12,12 +12,13 @@
   
 
 <h2>2. 프로젝트 기획 배경 및 목표</h2>
-  컴퓨터가 예측하는 내 얼굴의 나이는 몇 살일까?<br>
-  사람들이 평소 내가 동안인지 아닌지 궁금해한다.<br>
-  이 프로그램을 사용하면? 바로 알 수 있다.<br>
+  프로젝트를 기획한 이유는 사람들이 평소 자신이 동안인지 아닌지 궁금해한다.<br>
+  그래서 컴퓨터로 분석, 예측하는 내 얼굴의 나이는 몇 살일까?<br>
+    이 프로그램을 사용하여 내 얼굴은 평균보다 젊어 보이는지 알 수 있다. <br>
+  
 
 <h2>3. 주요 기능</h2>
-  사진을 업로드 하면 사진속 얼굴이 몇 살로 확인되는지 출력된다.
+  사진을 업로드 하면 입력된 사진속 얼굴의 연령대를 예측하여 출력한다.
 
 <h2>4.	개발 환경 및 사용 기술</h2>
   사용한 환경 : COLAB <br>
@@ -28,9 +29,9 @@
   이창원 : 
 
 <h2>6.	데이터 출쳐 및 코랩 링크 </h2>
-데이터 출쳐 : https://www.kaggle.com/frabbisw/facial-age <br>
+데이터 출쳐 :<br> https://www.kaggle.com/frabbisw/facial-age <br>
 
-<h5>코랩 링크</h5>  : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=1ELOagz7-nz5 <br>
+<h5>코랩 링크</h5>  :<br> https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=1ELOagz7-nz5 <br>
 
 
 
