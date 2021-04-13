@@ -8,7 +8,8 @@
 
 <h2>1. 프로젝트 주제</h2>
   얼굴 인식 후 나이 예측 프로그램<br>
-  기존 학습된 내용을 바탕으로 
+  기존 학습된 내용을 바탕으로 제출한 얼굴 사진의 나이를 측정할 수 있다.<br>
+  
 
 <h2>2. 프로젝트 기획 배경 및 목표</h2>
   컴퓨터가 예측하는 내 얼굴의 나이는 몇 살일까?<br>
@@ -29,7 +30,8 @@
 <h2>6.	데이터 출쳐 및 코랩 링크 </h2>
 데이터 출쳐 : https://www.kaggle.com/frabbisw/facial-age <br>
 
-<h5>코랩 링크</h5>  : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=1ELOagz7-nz5
+<h5>코랩 링크</h5>  : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=1ELOagz7-nz5 <br>
+
 
 
 <h3>개요</h3<br>
