@@ -25,15 +25,11 @@
   시각화 : seaborn
 
 <h2>5.	역할 분담</h2>
-  윤홍주 :  <br>
+  윤홍주 : <br>
   이창원 : 
 
-<h2>6.	데이터 출쳐 및 코랩 링크 </h2>
-데이터 출쳐 :<br> https://www.kaggle.com/frabbisw/facial-age <br>
-
-<h5>코랩 링크</h5>  :<br> https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=1ELOagz7-nz5 <br>
-
+<h2>6.	데이터 출처 및 코랩 링크 </h2>
+데이터 출처 : https://www.kaggle.com/frabbisw/facial-age <br>
+코랩 링크 : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=1ELOagz7-nz5 <br>
 
 
-<h3>개요</h3<br>
-  COLAB, d
