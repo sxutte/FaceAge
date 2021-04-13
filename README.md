@@ -7,7 +7,8 @@
 <br>제작자 : 40기 윤홍주, 이창원
 
 <h2>1. 프로젝트 주제</h2>
-  얼굴 인식 후 나이 예측 프로그램
+  얼굴 인식 후 나이 예측 프로그램<br>
+  기존 학습된 내용을 바탕으로 
 
 <h2>2. 프로젝트 기획 배경 및 목표</h2>
   컴퓨터가 예측하는 내 얼굴의 나이는 몇 살일까?<br>
@@ -27,7 +28,8 @@
 
 <h2>6.	데이터 출쳐 및 코랩 링크 </h2>
 데이터 출쳐 : https://www.kaggle.com/frabbisw/facial-age <br>
-코랩 링크  : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=OFuCV7Bj-P7p 
+
+<h5>코랩 링크</h5>  : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=1ELOagz7-nz5
 
 
 <h3>개요</h3<br>
