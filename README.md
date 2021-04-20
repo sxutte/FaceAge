@@ -23,7 +23,6 @@
 <h2>3. 주요 기능</h2>
   나이를 확인하고 싶은 사진을 업로드 하면 입력된 사진속 얼굴의 연령대를 예측하여 출력한다.<br>
   
-  
   <br>
 
 <h2>4.	개발 환경 및 사용 기술</h2>
@@ -32,13 +31,14 @@
   <br>
 
 <h2>5.	역할 분담</h2>
-  윤홍주 : <br>
-  이창원 : 
+  윤홍주 : 전반적 담당<br>
+  이창원 : 전반적 담당
   <br>
   <br>
 
 <h2>6.	데이터 출처 및 코랩 링크 </h2>
 데이터 출처 : https://www.kaggle.com/frabbisw/facial-age <br>
+(X)<br>
 코랩 링크 : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=Qu1yRR4SEkeo <br>
 
 
