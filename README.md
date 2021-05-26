@@ -39,6 +39,6 @@
 <h2>6.	데이터 출처 및 코랩 링크 </h2>
 데이터 출처 : https://www.kaggle.com/frabbisw/facial-age <br>
 (X)<br>
-코랩 링크 : https://colab.research.google.com/drive/1i_Zr_v4GfoIzDB5v9XEo9DW2ObOzfD88#scrollTo=Qu1yRR4SEkeo <br>
+코랩 링크 : https://colab.research.google.com/drive/1FcfheFG3OXvDfzV3_MHkVTX3M4cjEqP2 <br>
 
 
